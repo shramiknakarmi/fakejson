@@ -1,7 +1,7 @@
 {
   "todos": [
-    { "id": 1, "title": "Shramik Nakarmi" ,"completed":true},
-    { "id": 2, "title": "Prabin Siwakoti" ,"completed":true},
-    { "id": 3, "title": "Santosh Dheke","completed":true }
+    { "id": 1, "title": "shramik nakarmi" ,"completed":true},
+    { "id": 2, "title": "prabin siwakoti" ,"completed":true},
+    { "id": 3, "title": "santosh dheke","completed":true }
   ]
 }
